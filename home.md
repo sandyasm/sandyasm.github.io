@@ -85,5 +85,4 @@ Submission website: [https://cmt3.research.microsoft.com/EASL2017]
 
 [here]: /reference
 [call for papers]: /cfp	
-[Schedule]: /schedule
 
