@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# 1st EACL Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language.. (EASL)
+# 1st EACL Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language..
 ## Held in Conjunction with EACL 2017
 
 
 
-## Abstract##
+## Description##
 
 Deep networks have had profound impact across machine learning research and in many application areas. DNNs are complex to design and train. They are non-linear systems that almost always have many local optima and are often sensitive to training parameter settings and initial state. Systematic optimization of structure and hyperparameters is possible e.g. with Bayesian optimization, but hampered by the expense of training each design on realistic datasets. Exploration is still ongoing for best design principles. We argue that visualization can play an essential role in understanding DNNs and in developing new design principles. With rich tools for visual exploration of networks during training and inference, one should be able to form closer ties between theory and practice: validating expected behaviors, and exposing the unexpected which can lead to new insights. 
 
@@ -82,27 +82,9 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 
 
 
-[Biye Jiang]: http://byeah.github.io
-[John Canny]: http://www.eecs.berkeley.edu/~jfc/
-[Polo Chau]: http://www.cc.gatech.edu/~dchau/
-[Aditya Khosla]: https://people.csail.mit.edu/khosla/
-[guideline]: http://icml.cc/2016/?page_id=151
-[https://cmt3.research.microsoft.com/VDL2016]: https://cmt3.research.microsoft.com/VDL2016
-[here]: /reference
-[accepted papers]: /papers	
-[Jeff Clune]: http://jeffclune.com/
-[Wojciech Samek]: http://iphome.hhi.de/samek/
-[Yingnian Wu]: http://www.stat.ucla.edu/~ywu/
-[Jason Yosinski]: http://yosinski.com/
-[Junyan Zhu]: http://www.eecs.berkeley.edu/~junyanz/
-[Shixia Liu]: http://shixialiu.com/
-[Byron Boots]: http://www.cc.gatech.edu/~bboots3/
-[Le Song]: http://www.cc.gatech.edu/~lsong/
-[Deep Dream Generator]: http://deepdreamgenerator.com/
-[Inceptionism]: http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
-[Martin Wattenberg]: http://www.bewitched.com/about.html
-[Christopher Olah]: http://colah.github.io/about.html
-[Schedule]: /schedule
+
+[call for papers]: /cfp	
+[Home]: /home
 
 
 <script>
