@@ -76,42 +76,14 @@ Submissions must be in PDF, written in English, no more than 8 pages long — sh
 
 For accepted papers, at least one author must attend the workshop to present the work.
 
-Submission website: [https://cmt3.research.microsoft.com/VDL2016]
+Submission website: [https://cmt3.research.microsoft.com/EASL2017]
 
 
 
 
 
-[Biye Jiang]: http://byeah.github.io
-[John Canny]: http://www.eecs.berkeley.edu/~jfc/
-[Polo Chau]: http://www.cc.gatech.edu/~dchau/
-[Aditya Khosla]: https://people.csail.mit.edu/khosla/
-[guideline]: http://icml.cc/2016/?page_id=151
-[https://cmt3.research.microsoft.com/VDL2016]: https://cmt3.research.microsoft.com/VDL2016
+
 [here]: /reference
-[accepted papers]: /papers	
-[Jeff Clune]: http://jeffclune.com/
-[Wojciech Samek]: http://iphome.hhi.de/samek/
-[Yingnian Wu]: http://www.stat.ucla.edu/~ywu/
-[Jason Yosinski]: http://yosinski.com/
-[Junyan Zhu]: http://www.eecs.berkeley.edu/~junyanz/
-[Shixia Liu]: http://shixialiu.com/
-[Byron Boots]: http://www.cc.gatech.edu/~bboots3/
-[Le Song]: http://www.cc.gatech.edu/~lsong/
-[Deep Dream Generator]: http://deepdreamgenerator.com/
-[Inceptionism]: http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
-[Martin Wattenberg]: http://www.bewitched.com/about.html
-[Christopher Olah]: http://colah.github.io/about.html
+[call for papers]: /cfp	
 [Schedule]: /schedule
 
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-48160406-2', 'auto');
-  ga('send', 'pageview');
-
-</script>
