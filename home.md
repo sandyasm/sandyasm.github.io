@@ -5,9 +5,8 @@ permalink: /home/
 order: 1
 ---
 
-# 1st Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language.. (EASL)
+# 1st Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language...
 ## Held in Conjunction with EACL 2017
-
 
 
 ## Abstract##
